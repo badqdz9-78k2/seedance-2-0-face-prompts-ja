@@ -1,0 +1,15 @@
+{
+  "id": "seedance-2.0",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-15T21:16:31Z",
+  "prices": {
+    "default": {
+      "list": 0.04,
+      "effective": 0.04
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.04 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/doubao-seedance-2-0"
+}
